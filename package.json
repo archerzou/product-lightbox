@@ -2,7 +2,7 @@
   "name": "campus-lightbox",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://campuslightbox.com/",
+  "homepage": "https://archerzou.github.io/product-lightbox",
   "dependencies": {
     "emailjs-com": "^2.4.1",
     "fuse.js": "^3.4.4",
