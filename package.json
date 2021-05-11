@@ -1,6 +1,6 @@
 {
-  "name": "campus-lightbox",
-  "version": "0.2.0",
+  "name": "product-lightbox",
+  "version": "0.1.0",
   "private": true,
   "homepage": "https://archerzou.github.io/product-lightbox",
   "dependencies": {
