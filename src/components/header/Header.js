@@ -96,7 +96,7 @@ class Header extends React.Component {
           <img
             className="titleImage"
             src={require("./ServiceLogo.png")}
-            alt="Campus Lightbox"
+            alt="Product Lightbox"
           />
           <div className="guide">Your Guide to Honeywell Product Resources</div>
           <div className="select">Select From One of the Following Options</div>
