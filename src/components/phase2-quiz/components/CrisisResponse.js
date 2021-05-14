@@ -52,7 +52,7 @@ const CrisisResponse = () => {
               </Table.Row>
               <Table.Row>
                 <Table.Cell>
-                  UBC Campus Security 24/7 <Icon name="phone" />
+                  UBC Product Security 24/7 <Icon name="phone" />
                   (604-822-2222)
                 </Table.Cell>
               </Table.Row>
